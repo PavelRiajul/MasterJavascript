@@ -3,7 +3,7 @@
      //culliction of elements  // ordered collection of items
      // Jvascript array is an object that represents a collection of simmilar type of elements
      //same multiple deta/ item/elements store korar jonno array use korbo.
-     //Array index number dore dore define korte hoy
+     //Array  te item golo index number dore dore define/access korte hoy
      //Array index number start 0 theke
 
 

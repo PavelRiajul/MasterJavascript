@@ -8,7 +8,7 @@
 // }
 
 
-//for in loop no index number  amar item chai
+//for in loop not index number  amar item chai
 const fruits = ['apple','mango','banana','grapes']
 for(let fruit in fruits){
     console.log(fruits[fruit])

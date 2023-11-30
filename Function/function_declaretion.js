@@ -1,4 +1,5 @@
-//function declaretion
+// 1 topic
+//function declaretion/Named function
 //function is a machine
 //function define 3 parts (1)Input (2)output (3) Processing
 //how to use function  Ans: repeted kaj golo ke reduce kora

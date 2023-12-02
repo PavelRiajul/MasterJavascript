@@ -6,7 +6,13 @@
 // myName()
 
 
-var name = 'riajul islam';
+// var name = 'riajul islam';
+// function myName(){
+//     console.log(name)
+// }
+// myName()
+
+let name = 'riajul islam';
 function myName(){
     console.log(name)
 }

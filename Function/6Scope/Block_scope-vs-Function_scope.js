@@ -79,14 +79,20 @@
 // console.log(name)
 
 
-function myApp(){
-    if(true){
-        var firstName = 'riajul';
-        console.log(firstName)
-    }
-    if(true){
-        console.log(firstName)
-    }
-    console.log(firstName)
+let yourName ='sirajul';
+function name(){
+    name()
 }
-myApp()
+console.log(yourName)
+
+// function myApp(){
+//     if(true){
+//         var firstName = 'riajul';
+//         console.log(firstName)
+//     }
+//     if(true){
+//         console.log(firstName)
+//     }
+//     console.log(firstName)
+// }
+// myApp()

@@ -1,4 +1,7 @@
+// higher order function
 //function returning function
+
+
 // function myFunc(){
 //     return [2,3,4,5]  //array return
 // }

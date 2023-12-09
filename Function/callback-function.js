@@ -1,4 +1,15 @@
-//callback function
+//callback function    //higher order function
+//callback function holo amon akta function je function arekta function a argument hishabe pathano hoy.
+//Example:
+// function myFunc2(){
+//     console.log('hello')
+// }
+// function myFunc(a){
+//     a()
+// }
+// myFunc(myFunc2)
+
+
 
 // function myFunc(a){
 //     console.log(a)
@@ -30,7 +41,6 @@
 // myFunc(myFunc2)  
 
 
-
 //function theke function return
 // function welcome(name){
 //     console.log(`welcome Mr.`+name)
@@ -50,3 +60,14 @@
 // anotherfunc('Riajul islam')
 
 
+
+
+// const isEven = (n)=>{
+//     return n % 2==0;
+// }
+
+// let printMsg = (evenFunc,num)=>{
+//     const isNumEven = evenFunc(num)
+//     console.log(`The number ${num} is an even number:`)
+// }
+// printMsg(isEven,4)

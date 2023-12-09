@@ -1,4 +1,5 @@
 //reduce method
+//The reduce() method executes a reducer function on each element of the array and returns a single output value.
 //reduce value return kore kinto orginal array ke change change kore na
 //reduce method callback function nee
 //example:

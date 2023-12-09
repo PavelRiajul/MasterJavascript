@@ -1,4 +1,5 @@
 //sort method 
+//The sort() method sorts the items of an array in a specific order (ascending or descending).
 //sort method orginal array ke change kore
 //ASCII TABLE
 //char: ascii value

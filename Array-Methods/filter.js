@@ -1,5 +1,4 @@
 //filter method/function
-// filter boolean value return kore   true  & false
 //filter  new array return kore  kinto orginal array ke change kore na
 
 // const numbers = [1,2,3,4,5,6];

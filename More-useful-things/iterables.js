@@ -20,3 +20,4 @@ for(let char of items){
 // const firstname = 'imadul islam';
 // console.log(firstname.length)
 // console.log(firstname[1])
+

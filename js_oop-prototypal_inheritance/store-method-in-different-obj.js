@@ -1,5 +1,5 @@
 //store methods in different object
-//about and is18 method defination same thakem aeta change hobe na
+//about and is18 method defination same thakbe aeta change hobe na
 //kinto million user create kora jabe
 //about and is18 alada object a set korse .alada memory
 //amra moloto akta function banaya rakhbo and oitar copy/adreee use kormo
@@ -20,7 +20,7 @@
 //     user.email = email
 //     user.age = age
 //     user.address = address;
-//     user.about=userMethods.about;  //refrence/address store korlam  .jokhon ae method call kormo tokhon ae method er address a jabe  address holo about() adress a jeye call korbe
+//     user.about=userMethods.about;  //(refrence/address store korlam  .jokhon ae method call kormo tokhon ae method er address a jabe  address holo about() adress a jeye call korbe)
 //     user.is18 = userMethods.is18;   //refrence/address store korlam
 //  return user //sob value khale obj a add hobe
 // }

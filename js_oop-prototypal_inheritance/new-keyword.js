@@ -1,5 +1,6 @@
 //new keyword
 //constructor function
+//je function  banabo   je function object create korbe oitai (constraction) function
 // function createuser(firstName,age){
 //     this.firstName=firstName;
 //     this.age=age;
@@ -52,3 +53,6 @@
 // console.log(user3.is18())
 // console.log(user1)
 
+
+
+//amra real life a aeta beshi use korbo prototype

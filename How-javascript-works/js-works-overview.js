@@ -15,7 +15,7 @@ var firstName = "Riajul"
 //(1)Tokenizing/Lexing => amra jee code lekhe oigolage small small code a tokra/vag kore. are ae small small vag korake bole Token  (2)Parsing => amra jee code small small akare vag korsi oitar akta jinish holo Abstrac syntex Tree(AST).AST ke help se amader code  exucutable formated a amader code Generate hoy .jar jonno amra code excuite korte pari (3)Code generation
 
 //2)code Execute....
-//code Execution phse-
+//code Execution pehse-
 // Javascript a joto gola code ase sob gola code exceution context er maddome excute hoy. manee code excute
 //korar jonno  amader execution context create korte hobe. fists a je execution context create korse oita ke amra bolo (Global Excution context)
 

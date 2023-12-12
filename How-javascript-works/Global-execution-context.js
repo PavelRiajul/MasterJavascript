@@ -1,4 +1,5 @@
 //2 Topic
+//jekono code code run korar somoy first step a (function execution context create hobe)
 //javascript holo (Synchronous programming language)
 //synchoronus holo => jokhon amader execute hobe agee 1st line execute hobe.jotokkhon 1st line execute complete na hobe . totkkhon 2nd line execute hobe na.
 //are Asynchoronus  feature javascript er kase nae .oita Browser provide kore

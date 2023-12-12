@@ -6,7 +6,7 @@ console.log(window)
 console.log(firstName)
 var firstName = "Riajul"
 //var firstName = .'riajul'// . holo early error code first a early error check korbe
-
+//How javascript code execute?
 //javascript code kivabe execution hoi ba kivabe kaj kore .kiki step follow kore 2 step
 //1)compile 2)code execute
 //1st step=> javascript code compile(translate) kore. compile/compilation amader all code akbar dekhe.tarpor source code theke bytecode/machin code a ropantor kore

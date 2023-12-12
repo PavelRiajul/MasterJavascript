@@ -18,6 +18,7 @@
 //kinto amar fullName chai =>  outpot => Riajul islam  fullname(paranthisis use na kore) => just person.fullName
 //...................................
 //setter method use
+//setter holo chanege the value og object
 
 class Person{
     constructor(firstname,lastname){

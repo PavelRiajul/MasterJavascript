@@ -17,8 +17,8 @@
 //         console.log('person name is Riajul and age is 22')
 //     }
 // }
-// //console.log(person.about)    //amar pora function outpot lagbena
-// //ami function call korbo
+ //console.log(person.about)    //amar pora function outpot lagbena
+ //ami function call korbo
 // person.about()
 //................................................................................................
 //firsname and age onek somoy change hote pare.  ta ami templete string use korbo and ${this.firstname} use korbo. this holo pora  person er obj.are about function person obj ke call korbe.and about function function this use korbo oitai pora person er obj

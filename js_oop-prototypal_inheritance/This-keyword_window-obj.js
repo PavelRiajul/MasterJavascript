@@ -1,4 +1,5 @@
 //this keyword window obj
+//this keyword nodejs a akta khali/empty object return kore {}
 //this keyword window ke represent kore
 //console.log(this)
 //console.log(window)

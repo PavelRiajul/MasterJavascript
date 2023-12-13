@@ -22,8 +22,8 @@
 //      return innerFunction
 // }
 // const ans =outerFunction()
-//  //console.log(ans)
-//  ans()
+//  //console.log(ans)  //print innerFunction
+//  ans() //call return innerFunction
      
 // 1st a amra outerFuncrion ke call korlam .outerFunction return korbe innerFunction ke.innerunction holo akta function .and innerFunction ta store hobe ans name er variable a. are jokhon amra print korbo
 //tokhon print hobe  console.log(ans)=> tokhon  pora innerFunction print  hobe. are innerFunction ke call korle ans()  tokhon print hobe => Hello world

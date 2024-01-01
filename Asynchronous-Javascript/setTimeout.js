@@ -16,7 +16,7 @@
 //     console.log('inside for loop') //2nd finished
 // }
 // console.log('script end')  //3rd finished
-//..........................................................
+//......................................................................
 //Asynchronous programming (next step code ke block kore na)
 //setTimeout function (javascript provied korena  provied kore (web browser))
 //setTimeout return debe (1 id)

@@ -9,7 +9,7 @@
 //(every line of code is executed one after the other, and each task must wait for the previous one to be completed before moving to the next.)
 //(1)=>Thread Model - Synchoronous is a single theread
 //(2)=> speed - Synchoronous is slower in nature
-//jotokkhon porjonto akta kaj complete hobe na totkkhon porjonto next step  ajete parbe na /next step er code ke block kore rakhbe. amra synchronous programming ke (blocking code bolte pari)
+//jotokkhon porjonto akta kaj complete hobe na totkkhon porjonto next step  a jete parbe na /next step er code ke block kore rakhbe. amra synchronous programming ke (blocking code bolte pari)
 //exmple:
 // console.log('hello')  //first finished
 // for(let i = 1;i<1000;i++){

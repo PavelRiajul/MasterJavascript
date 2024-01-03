@@ -1,0 +1,15 @@
+#main-heading{
+    color: blue;
+}
+.btn-headline{
+    color: brown;
+}
+
+.section-todo{
+    margin-top: 5rem;
+    text-align: center;
+}
+.bgDark{
+    background-color: black;
+    color: aliceblue;
+}

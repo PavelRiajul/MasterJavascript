@@ -1,0 +1,26 @@
+<!--step 2........................................................................-->
+<!--HTML file er nese jodi js file link kori tahole-->
+<!--1st HTML file parse hobe Time-->
+<!--2nd js Load hobe Time lagbe-->
+<!--3rd js execute/run hobe Time lagbe-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--step 3........................................................................-->
+    <!--<script src="./async-vs-defer.js" async></script>-->
+    <!--js file link korar somoy async use korle -->
+    <!--(1)parse 2( js file load) 2ta kase ak sathe hobe-->
+    <!--jodi js file load complete hoye jai tahole HTML file ko browser parse kora stop kore debe .
+    tarpor js file execute hobe . ata error hobar chance beshi(tai js file link korar somoy async use kora accha torika na)-->
+<!--step4....................................................................-->
+    <script src="./async-vs-defer.js" defer></script>
+    <!-- browser (1) parsing (2)Load ->2ta kaj ak sathe hobe-->
+    <!--jodi js file browser a load complete hoye jai .tahole HTML file browser first a  a parse korbr. tarpor js file execute/run korbe.(html file a js file link korar somoy defer use korbo).defer use korle js er performance beshi hobe -->
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
